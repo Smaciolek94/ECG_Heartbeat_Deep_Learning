@@ -13,3 +13,5 @@ Look at dropout(p) 0 < p < 1 and regularization
 ptb is binary
 
 mit is multinomial
+
+Each feature is one second of signal
