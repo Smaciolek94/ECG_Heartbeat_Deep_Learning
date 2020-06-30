@@ -15,3 +15,5 @@ ptb is binary
 mit is multinomial
 
 Each feature is one second of signal
+
+The last column is the classification of the signal. 
