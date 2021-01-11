@@ -7,7 +7,7 @@ https://www.kaggle.com/shayanfazeli/heartbeat?select=mitbih_test.csv
 -ptbdb_normal and ptbdb_abnormal are the datafiles containing the normal and abnormal ECGs, respectively
 
 -Accuracy_Raw_Output contains csvs of raw accuarcy data under various models
--Cut_Off_Values contains figures showing error rates vs cutoff values that were put in the final write up
+-Cut_Off_Values contains figures showing error rates vs cutoff values that were put in the final write up \n
 -ECG_Eaxmples contains figures of sample EcG readings
 -Model_Comparison contains figures of the models vs accuracy
 
