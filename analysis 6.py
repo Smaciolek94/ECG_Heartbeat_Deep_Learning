@@ -15,7 +15,6 @@ import random
 from imblearn.over_sampling import SMOTE
 
 #number of times to run each model
-ntries = 1
 nepochs = 50
 
 #importing, appending, shuffling, splitting into test and train sets
