@@ -1,5 +1,5 @@
 # ECG_Heartbeat_Deep_Learning
-Using Nueral Nets and Possibly other ML methods to model ECG data
+Using deep learning to classify ECG Readings as normal or abnormal, controlling for class imbalances, exploring biasing output to maximize real-world patient outcomes.
 
 Data is here:
 https://www.kaggle.com/shayanfazeli/heartbeat?select=mitbih_test.csv
