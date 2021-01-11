@@ -4,16 +4,5 @@ Using Nueral Nets and Possibly other ML methods to model ECG data
 Data is here:
 https://www.kaggle.com/shayanfazeli/heartbeat?select=mitbih_test.csv
 
-look into SMOTE because the data are highly imbalanced, use imbalanced-Learn data
-
-look at 2D vs 1D conv nets
-
-Look at dropout(p) 0 < p < 1 and regularization
-
-ptb is binary
-
-mit is multinomial
-
-Each feature is one second of signal
-
-The last column is the classification of the signal. 
+Final Analysis is here:
+https://smaciolekdatascience.wordpress.com/2020/10/30/a-preliminary-look-at-the-utility-of-using-deep-learning-to-identify-abnormal-heartbeats/
