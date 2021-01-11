@@ -7,8 +7,6 @@ accs25 = pd.read_csv("C:/Users/smaci/Documents/GitHub/ECG_Heartbeat_Deep_Learnin
 accsREDUCED = pd.read_csv("C:/Users/smaci/Documents/GitHub/ECG_Heartbeat_Deep_Learning/accuracies_reduced.csv")
 accsSMOTE = pd.read_csv("C:/Users/smaci/Documents/GitHub/ECG_Heartbeat_Deep_Learning/accuracies_SMOTE.csv")
 
-
-
 #Just the raw models by epochs
 plt.plot(accs.iloc[0:7,0],accs.iloc[0:7,1],marker="o",label = "50 Epochs")
 #plt.plot(accs.iloc[:,0],accs.iloc[:,1] + 2*accs.iloc[:,2],linewidth=1,color="blue")

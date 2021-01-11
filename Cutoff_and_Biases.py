@@ -1,4 +1,4 @@
-#version 7 - biasing towards positive with output layer cut off
+#Accuracy Comparison
 
 import pandas as pd
 import numpy as np

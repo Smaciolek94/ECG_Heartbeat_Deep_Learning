@@ -1,5 +1,4 @@
-### Version 7:
-#adding SMOTE so that there's a 50-50 class balance
+##Model fitting with SMOTE
 
 import pandas as pd
 import numpy as np
