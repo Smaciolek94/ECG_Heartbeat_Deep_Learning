@@ -16,7 +16,7 @@ https://www.kaggle.com/shayanfazeli/heartbeat?select=mitbih_test.csv
 <li>chart maker.py was used to make charts of the various accuracies for the final write up
 </ul>
 
-**The Final Analysis is here:**
+**The Final Analysis is here:**<br>
 https://smaciolekdatascience.wordpress.com/2020/10/30/a-preliminary-look-at-the-utility-of-using-deep-learning-to-identify-abnormal-heartbeats/
 
 **References**
